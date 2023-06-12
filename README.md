@@ -1,1 +1,1 @@
-# Dev
+# A simple cannon game where you control a cannon aiming to hit a target located a distance 'd' away. You have the freedom to choose the velocity of the projectile and the angle at which the cannon is fired. If you miss the target (outside a predefined tolerance), the game informs you whether your shot fell short or went past the target, and allows you to try again.
